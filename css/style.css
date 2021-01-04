@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'AvertaDemoPE';
+    src: url('../assets/fonts/AvertaDemoPE-Regular.ttf');
+}
+p.rouge {
+    font-family: 'AvertaDemoPE';
+    color: red;
+}
+div.code {
+    font-family: 'Courier New', Courier, monospace;
+}
+div.exemple {
+    font-family: 'Courier New', Courier, monospace;
+}
+ol li {
+    background-color: yellow;
+}
